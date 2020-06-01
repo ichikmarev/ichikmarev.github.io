@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Ilya Chikmarev welcomes you
 email: ichikmarev@gmail.com
-description: >- Hello here. My name is Ilya and I am iOS developer.# this means to ignore newlines until "baseurl:"
+description: Hello here. My name is Ilya and I am iOS developer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ichikmarev
